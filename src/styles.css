@@ -22,8 +22,9 @@ body {
   color: rgb(93, 7, 7);
 }
 .image {
-  width: 50%;
+  width: 115px;
   padding-top: 1vh;
+  height: 150px;
 }
 
 .h2 {
